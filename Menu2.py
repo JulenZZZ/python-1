@@ -16,4 +16,8 @@ precios = {
     }
 
 
-            
+def print_zona1():
+        return zonas[1]
+
+def print_zona2():
+        return zonas[2]
